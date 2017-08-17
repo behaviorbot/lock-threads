@@ -1,4 +1,3 @@
-const yaml = require('js-yaml');
 const moment = require('moment');
 const perspectiveAPI = require('./lib/perspectiveAPI');
 
